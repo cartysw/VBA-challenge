@@ -20,6 +20,7 @@ https://stackoverflow.com/questions/78156319/how-to-find-the-total-volume-of-a-s
 
 While making the function that creates the second results tabel, I also referenced:
 https://learn.microsoft.com/en-us/office/vba/api/excel.worksheetfunction.max
+
 https://stackoverflow.com/questions/77118851/how-do-i-get-the-largest-percent-change-with-the-corresponding-ticker-using-if-s
 
 This was used to help write functions for the conditional formatting of results tables:
