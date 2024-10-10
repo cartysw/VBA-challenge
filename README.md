@@ -23,5 +23,7 @@ https://learn.microsoft.com/en-us/office/vba/api/excel.worksheetfunction.max
 
 https://stackoverflow.com/questions/77118851/how-do-i-get-the-largest-percent-change-with-the-corresponding-ticker-using-if-s
 
+https://learn.microsoft.com/en-us/office/vba/excel/concepts/workbooks-and-worksheets/refer-to-sheets-by-index-number
+
 This was used to help write functions for the conditional formatting of results tables:
 https://stackoverflow.com/questions/20648149/what-are-numberformat-options-in-excel-vba
